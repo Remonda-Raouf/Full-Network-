@@ -1,10 +1,7 @@
 🔐 Network Security Project – Cisco Packet Tracer
-
 📌 Description
 
 This project demonstrates the design and configuration of a secure enterprise network using Cisco Packet Tracer. The setup integrates routing, authentication, logging, and advanced security mechanisms to ensure reliability and protection.
-
-
 
 🚀 Features
 
@@ -36,8 +33,6 @@ Network Security (ACLs, SSH, AAA, ZPF, VPN)
 
 Network Services (Syslog, NTP)
 
-
-
 📜 Usage
 
 Open the .pkt file in Cisco Packet Tracer.
@@ -55,8 +50,6 @@ Validate routing: show ip route ospf.
 Test secure access via SSH login.
 
 Check applied ACL and ZPF policies to ensure traffic filtering.
-
-
 
 🎯 Suggested Improvements
 
