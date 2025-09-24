@@ -1,4 +1,5 @@
 🔐 Network Security Project – Cisco Packet Tracer
+
 📌 Description
 
 This project demonstrates the design and configuration of a secure enterprise network using Cisco Packet Tracer. The setup integrates routing, authentication, logging, and advanced security mechanisms to ensure reliability and protection.
